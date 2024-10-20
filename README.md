@@ -8,7 +8,7 @@ Pandas, Matplotlib
 
 **02 Statistical Data Analysis**
 
-Analyzing objects and their relationships using statistical methods. Sampling and statistical significance. Detecting and handling anomalies. Formulating and testing hypotheses.
+Analyzing objects and their relationships using statistical methods. Sampling and statistical significance. Detecting and handling anomalies. Formulating and testing hypotheses.---
 Tech stack:
 Pandas, Numpy, Matplotlib,  Seaborn
 
